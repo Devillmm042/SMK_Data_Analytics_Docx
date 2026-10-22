@@ -1,0 +1,6 @@
+Employee_ID,Name,Designation,Salary,Manager_ID,Join_Date
+1,Manikandan,DataAnalyst,35000,5,03-05-2026
+2,Kalai,Production,25000,5,05-10-2024
+3,Malathi,Quality,19000,1,19-07-2024
+4,Priya,Quality,23000,1,23-09-2022
+5,Suganya,Lead,40000,,14-03-2025
